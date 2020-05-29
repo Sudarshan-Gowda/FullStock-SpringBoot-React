@@ -3,7 +3,7 @@ Basic Full Stock Application Using Spring Boot and React
 
 ### Find the below image for the flow of React App with Spring Boot
 
-<img src="https://github.com/Sudarshan-Gowda/FullStock-SpringBoot-React/blob/master/Fullstock-React-SpringBoot.gif" width="100%" height="100%">
+<img src="https://github.com/Sudarshan-Gowda/FullStock-SpringBoot-React/blob/master/Fullstock-Angular-SpringBoot.gif" width="100%" height="100%">
 
 
 
@@ -17,7 +17,7 @@ You can then access Restfull here: http://localhost:3000/
 
 
 ## In case you find a bug/suggested improvement for Spring Restfull Webservices
-Our issue tracker is available here: https://github.com/Sudarshan-Gowda/Sudarshan-Gowda/FullStock-SpringBoot-React/issues
+Our issue tracker is available here: https://github.com/Sudarshan-Gowda/FullStock-SpringBoot-React/issues
 
 
 ## Working with Angular 8 & Spring Boot
@@ -33,7 +33,7 @@ The following items should be installed in your system:
 
 1) Download this Project from Git.
 ```
-git clone https://github.com/Sudarshan-Gowda/Sudarshan-Gowda/FullStock-SpringBoot-React.git
+git clone https://github.com/Sudarshan-Gowda/FullStock-SpringBoot-React.git
 ```
 2) To Import the Project Using Eclipse or STS
 ```
