@@ -3,7 +3,7 @@ Basic Full Stock Application Using Spring Boot and React
 
 ### Find the below image for the flow of React App with Spring Boot
 
-<img src="https://github.com/Sudarshan-Gowda/FullStock-SpringBoot-Angular/blob/master/Fullstock-React-SpringBoot.gif" width="100%" height="100%">
+<img src="https://github.com/Sudarshan-Gowda/FullStock-SpringBoot-React/blob/master/Fullstock-React-SpringBoot.gif" width="100%" height="100%">
 
 
 
